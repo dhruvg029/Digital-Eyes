@@ -1,4 +1,4 @@
-# Digital Eye
+# Digital Eyes
 #### *Object Detection App*
 ![Blind Guy Photo](./assets/images/blind1.jpg)
 
